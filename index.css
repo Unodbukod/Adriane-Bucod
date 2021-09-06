@@ -4,3 +4,9 @@ h1{
 h2{
     color:teal;
 }
+body{
+    height: 100vh;
+background-image: url("blink.jpg");
+background-size: cover;
+background-position: center;
+}
